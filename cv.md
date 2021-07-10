@@ -12,3 +12,10 @@ I am a hardworking, honest individual. I am a good timekeeper.I am a good commun
 **EDUCATION**
 
 Belarusian State Medical University, 2021 - Doctor of Medicine
+
+**LANGUAGES**
++ Russian(native)
+
++ Polish (A1)
+
++ English (B2)
