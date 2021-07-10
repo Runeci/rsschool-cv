@@ -19,3 +19,13 @@ Belarusian State Medical University, 2021 - Doctor of Medicine
 + Polish (A1)
 
 + English (B2)
+
+
+```
+ const func = (num) => {  
+  if (num > 0) {  
+    return num + 1;  
+  }
+  return num - 1;  
+}; 
+```
